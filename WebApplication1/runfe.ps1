@@ -1,1 +1,1 @@
-﻿New-Item -Path . -Name "file.js"
+﻿npm install
