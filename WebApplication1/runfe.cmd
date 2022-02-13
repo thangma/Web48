@@ -1,0 +1,1 @@
+﻿copy /b NUL EmptyFile.txt
