@@ -9,6 +9,6 @@
     <description>A deployment package created from files on disk.</description>
   </metadata>
   <files>
-	<file src="Content\**\*.*" target="Content" />
+	<file src="Content\*.*" target="Content" />
   </files>
 </package>
