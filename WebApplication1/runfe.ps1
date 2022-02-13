@@ -1,0 +1,1 @@
+﻿New-Item -Path . -Name "file.js"
