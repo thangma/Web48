@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>$PackageId$</id>
+    <version>1</version>
+    <authors>TFSBuild@ADAGE</authors>
+    <owners>TFSBuild@ADAGE</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A deployment package created from files on disk.</description>
+  </metadata>
+  <files>
+	<file src="Content\testfile.css" target="Content" />
+  </files>
+</package>
